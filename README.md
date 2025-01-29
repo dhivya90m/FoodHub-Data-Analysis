@@ -15,7 +15,7 @@ This project analyzes food order data to extract business insights, optimize res
 
 ### 📁 Project Files
 - `FoodHub_Data_Analysis.ipynb` - Full analysis notebook.
-- 
+  
 ## 📝 External Evaluation Summary
 This project was externally evaluated, with feedback based on a comprehensive rubric. Below are the key evaluation points and scores from the evaluator:
 
