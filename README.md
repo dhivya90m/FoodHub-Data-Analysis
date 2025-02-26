@@ -1,4 +1,7 @@
 # 🍽️ FoodHub Data Analysis
+**Author:** Dhivya Marimuthu  
+**Program:** Post Graduate Program in Artificial Intelligence and Machine Learning (Great Learning & UT Austin)
+
 ### 📌 Project Overview
 This project analyzes food order data to extract business insights, optimize restaurant demand, and enhance delivery efficiency.
 
